@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Flip:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Flip_jar</output-path>
+    <root id="archive" name="Flip.jar">
+      <element id="module-output" name="Flip" />
+    </root>
+  </artifact>
+</component>

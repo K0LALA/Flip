@@ -1,0 +1,2 @@
+The game consists of a grid filled with cross (red) and circles (blue), the goal is to get a full grid with circles
+To flip "coins" you need to choose one coin, it will flip the coin and all his left and up neighbours
